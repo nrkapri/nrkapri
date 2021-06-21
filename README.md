@@ -1,6 +1,6 @@
 ### Hello, I am Nayan 👋
 
-- 🔭 I’m currently working on building Scalable and Cloudnative Microservice bases system in Spring Boot.  
+- 🔭 I’m currently working on building Scalable and Cloudnative Microservice based systems in Spring Boot.  
 - 🌱 I’m currently learning interesting stuffs in AI,ML,NLP. 
 - 👯 I’m looking to collaborate on ... anything interesting in languages C/Java/SpringBoot/Python. 
 - 🤔 I’m looking for help with ... will let you know. 
